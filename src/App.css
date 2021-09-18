@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.post
+{
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  width: 90vw;
+  margin: 50px;
+  padding: 20px;
+}
+
+.app_body
+{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+
+
+
